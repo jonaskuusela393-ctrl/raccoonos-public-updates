@@ -1,0 +1,33 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Tue, 29 Sep 2026 12:52:34 +0000
+Label: RaccoonOS
+Origin: RaccoonOS
+Suite: stable
+MD5Sum:
+ 019a1b44149244ed816dc2be82b1367c              142 Release
+ 95ad4ada869ac4a06057224ab1adbaae             1646 main/binary-amd64/Packages
+ ed3aa8998335e2217295347a91285427              927 main/binary-amd64/Packages.gz
+SHA1:
+ b89fd0b5e967e18b28855048a94e2995bee59396              142 Release
+ 5ba59692c0c7bd437f56ca76d4ba4aebfe50c17f             1646 main/binary-amd64/Packages
+ 03de2e95819051a68cb6f770b78f01c15faf5d14              927 main/binary-amd64/Packages.gz
+SHA256:
+ f5e5f6d0815d7a1d5c96fb9e28ab62293e8f5987a4de24972ebcae34aef85939              142 Release
+ a964cab8d3929dfeb447bf2f2587d2cfbe59d75830caf69245a969391c4517ba             1646 main/binary-amd64/Packages
+ 1ea1272116444b1502f3547536534e91dcb78795c6bd08183d956d08e917621d              927 main/binary-amd64/Packages.gz
+SHA512:
+ ef8c021ee6a09acebbf740d4b5d1f01c881cee968dba88d4e84379f57807a3728d1e2b451eac2c22975bcedc56d5b01ce0a92fbfa2b8adce8691fa26e6f446ae              142 Release
+ f7a14d9563b4f73f99974f1da353f8c4628118dcea9186c29dbb300992df7aaa8444b1371687fe0f7f74c5e3dbc1c9ff834bd2f8a1ff82e988349799cb80917b             1646 main/binary-amd64/Packages
+ c048a7ba238b002b8a7faaff4786269d98434a2c9cb9cf56d384a8d3da1a6db1851427fbe4029b8f7e8dc875acb93a2bc42a8fdd33b8fcf929296f37f069063c              927 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQShPXQMzuECthXxjuvXnQ4VeMYmIAUCaru0lAAKCRDXnQ4VeMYm
+IJW+AQDivvXtNLemlI0mI+E179tsECQW+Jx8nsIz81hBbF8edwEAw8BPjMbHVnkP
+xhdppSpIAmRUiBJR5DBxfnUbxR9yGAU=
+=P3a/
+-----END PGP SIGNATURE-----
