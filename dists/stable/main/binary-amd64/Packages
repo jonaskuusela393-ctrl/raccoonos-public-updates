@@ -5,10 +5,10 @@ Maintainer: RaccoonOS Project
 Depends: python3 (>= 3.11), python3-tk, python3-icalendar, python3-mutagen, python3-pil, python3-pil.imagetk, python3-psutil, python3-pywayland, python3-gi, gir1.2-gtk-3.0, flatpak, gir1.2-flatpak-1.0, pkexec, mate-polkit, xdg-utils, gnupg, gpgv, greetd, seatd, tuigreet, cage, swaylock, bubblewrap, firejail, apparmor
 Recommends: wl-clipboard, labwc, wlrctl, wlr-randr, wdisplays, kanshi, wvkbd, wayland-utils, xdg-desktop-portal, xdg-desktop-portal-gtk, xdg-desktop-portal-wlr, colord, gnome-color-manager, gammastep, mako-notifier, foot, firefox-esr, network-manager, network-manager-gnome, pipewire-audio, wireplumber, pavucontrol, alsa-utils, udisks2, blueman, cups, system-config-printer, power-profiles-daemon, fwupd, gparted, ffmpeg, poppler-utils, grim, slurp, wf-recorder, tesseract-ocr, tesseract-ocr-eng, imv, mpv, evince, libreoffice-writer, libreoffice-calc, libreoffice-impress, libreoffice-draw, file-roller, gnome-sound-recorder, sane-utils, simple-scan, orca, fcitx5, fcitx5-config-qt, fcitx5-frontend-all
 Filename: pool/main/r/raccoonos-shell/raccoonos-shell_6.0.0-25_all.deb
-Size: 39531076
-MD5sum: 4c0c121e99c480f17134de8d09a7a3bd
-SHA1: f521f85c8a8ecd3f0c92e42b427a8a809d793092
-SHA256: 72949a7b08ce32464f539d7ab69fe9d91ff3d34bdaff0f033528f62e2d84b598
+Size: 39530556
+MD5sum: 15995798e5d3f46916828b962ddea699
+SHA1: 8c918dee29e1b089e409e40668113a6ee92e708e
+SHA256: 446dc0aa525e468f53feeaa9054dd8717cdbb6e32690174e1381fc77a5b4f89b
 Section: x11
 Priority: optional
 Description: RaccoonOS desktop shell and local-first applications
