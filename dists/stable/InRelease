@@ -4,30 +4,30 @@ Hash: SHA256
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Tue, 29 Sep 2026 13:38:02 +0000
+Date: Tue, 29 Sep 2026 13:42:06 +0000
 Label: RaccoonOS
 Origin: RaccoonOS
 Suite: stable
 MD5Sum:
- 1caf518bcd6346ca923981f7e3ee7ca6              142 Release
+ 0a61089e94bfb009243af506c1c4f28e              142 Release
  491225672459ab17a2dd81f9a8f1b906             1646 main/binary-amd64/Packages
  6f4d4f5bc577ac6d345649c422bcccde              925 main/binary-amd64/Packages.gz
 SHA1:
- 66d772513b3c11baf3b585b90c4162c44d3d2671              142 Release
+ aa135f898ee93b71d2c46d3e52bc5a7076ead531              142 Release
  ffc507e50698bff31a8e7dcae05c80ffa95b8793             1646 main/binary-amd64/Packages
  a2cbc3861497464bbbef4ddd36e0713fcd1d7f46              925 main/binary-amd64/Packages.gz
 SHA256:
- 9f1fa057b24bc3d858ed5e0b5f79c27b4994fc739453192a22c1dbe6442e7727              142 Release
+ 0ea1d35330252a7a5085d379be1ab73b076599c90089e9701d2ec08243478d01              142 Release
  8c3e9dffcfde4eb9a0feff9156db7e5bea08bcb5657f346184f1d58d6c6a9409             1646 main/binary-amd64/Packages
  9c7d64750218a02e0581eb5961568e1529f553f48cd3416edf13876cf9c6698c              925 main/binary-amd64/Packages.gz
 SHA512:
- 213c9cb0052d1347ae3f8375a796fe13df07c2fc1b555306e5e8084ce3327df6cead916b175932895a5dbd1839d8bea29778b9fedc72629511b72182da843a9c              142 Release
+ 3ee1759d51266ff2c5b6c58e733bbe9896b8e1ea73d1169668ab9532c12de5a700e21a93a4de8c1b45bfd3c4405788f04360185443e29f99f0a04463196166b6              142 Release
  63dd863bff40f665bbe675a0f2d4d19c5e5fa884a4b36ea461539383e646a07b46aadab40845f3fde9517d7a1d15884261d9c46b300ce08920b0e5a7e4136ae8             1646 main/binary-amd64/Packages
  076c66e860e39d0756772418d1c816c5a462474a4e317d2b81f477408a322f1ce822af500627e429a253cdeae7e1bbe225d51825fa5b5df32a6ee781f1d29d6a              925 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQShPXQMzuECthXxjuvXnQ4VeMYmIAUCaru/OgAKCRDXnQ4VeMYm
-IDZ0AQCcqkd+RacJNgdikdOar7+qqY8fn5qZ0NOLo+/9GctYHQEAoPAT3KL0+1Ha
-MXBEpDJ6jbF15/tCLU25mkqMDViuNQY=
-=uaTp
+iHUEARYIAB0WIQShPXQMzuECthXxjuvXnQ4VeMYmIAUCarvALgAKCRDXnQ4VeMYm
+INgqAQDZ2YMpLC1/o+dCaR73DqHxS5QY8J06D7a2uF0pr088ugD/eCAMvCWL4op1
+Uj03JMK2gMh7Btw7rWSiy/bBIrMwvgo=
+=giIM
 -----END PGP SIGNATURE-----
